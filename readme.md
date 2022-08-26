@@ -1,9 +1,8 @@
-Book Manager
+A java based console application to manage the catalogues from the New York Times dataset.
 
-A simple java-console application to manage the books from the New York Times dataset.
-The dataset is in a json format hence it is stored in a MongoDB NoSQL database, hosted in an AWS EC2 instance. 
+The catalogue dataset is in a json format and is stored in a MongoDB NoSQL database, hosted in an AWS EC2 instance. 
 
-This application connects to the EC2 instance and provides the users with 15 operations to perform on the database.
+This application connects to the EC2 instance and provides the users with all the CRUD operations to manage the catalogue data on the database.
 
 
 Requirements:
